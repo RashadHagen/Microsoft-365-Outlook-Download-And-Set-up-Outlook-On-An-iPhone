@@ -61,4 +61,105 @@ This project goes over how to download and set up Outlook on an iPhone. Download
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Type: Your email address.</b></span>  
+<br/>
 
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FWykxfv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Click: Add Account.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8G9Q8tQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Click: Add Account.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0zXcD0X.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Type: Your password.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/HNJ7cau.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Tap: Sign in.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RzUL5jz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Open: Authenticator app and Type: Number shown on the Outlook screen.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/LnMVgnG.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>iPhone User: Done.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/esA8QU8.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Admin: Can go to Microsoft 365 Exchange Admin Center to check that the iPhone Outlook account is connected to Microsoft 365.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3xu3eVS.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
