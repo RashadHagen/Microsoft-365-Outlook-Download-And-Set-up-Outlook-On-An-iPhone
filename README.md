@@ -15,7 +15,7 @@ This project goes over how to download and set up Outlook on an iPhone. Download
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Command Prompt</b>
+ - <b>Microsoft 365 & App Store</b>
 
 
 
@@ -24,7 +24,7 @@ This project goes over how to download and set up Outlook on an iPhone. Download
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>Apple App Store & Outlook for iOS</b>
+- <b>Apple App Store & Outlook for iOS & Micrososft 365 Exchange</b>
 
 
 
