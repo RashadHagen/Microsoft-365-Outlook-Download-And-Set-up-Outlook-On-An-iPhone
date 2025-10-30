@@ -1,11 +1,11 @@
-<h1>Microsoft 365 Outlook – Download And Set up Outlook On An iPhone</h1>
+<h1>Microsoft 365 Outlook – Download And Setup Outlook On An iPhone</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to download and set up Outlook on an iPhone. Downloading and setting up Outlook email on an iPhone allows you to access and manage your Outlook email, calendar, and contacts directly on your iPhone device. 
+This project goes over how to download and setup Outlook on an iPhone. Downloading and setting up Outlook email on an iPhone allows you to access and manage your Outlook email, calendar, and contacts directly on your iPhone device. 
 </b>
 
 
